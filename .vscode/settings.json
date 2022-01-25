@@ -1,5 +1,5 @@
 {
-    "editor.tabSize": 8,
+    "editor.tabSize": 2,
     "editor.rulers": [
         100
     ],
@@ -25,9 +25,6 @@
     "C_Cpp.default.intelliSenseMode": "clang-x64",
     "C_Cpp.formatting": "Disabled",
     "uncrustify.configPath.linux": "/opt/ros/foxy/lib/python3.8/site-packages/ament_uncrustify/configuration/ament_code_style.cfg",
-    "[cpp]": {
-        "editor.defaultFormatter": "zachflower.uncrustify"
-    },
     "search.exclude": {
         "**/node_modules": true,
         "**/bower_components": true,
